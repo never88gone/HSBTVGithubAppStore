@@ -24,7 +24,7 @@ app的相关设置会显示在这里
 # DLNA投屏
 以优酷站为例,点击播放页面的投屏按钮后，投屏设备选项后添加上【糖葫芦】的选项
 <p align="center">
-  <img alt="糖葫芦" src="screenshot/优酷投屏.png" width ="400px"/>
+  <img alt="糖葫芦" src="screenshot/优酷投屏截图.png" width ="400px"/>
 </p>
 # Http投屏
 点击遥控器的右键，弹出二维码，手机与tv在同一个局域网下，扫码二维码显示二维码页面
@@ -32,7 +32,7 @@ app的相关设置会显示在这里
   <img alt="糖葫芦" src="screenshot/二维码.png" />
 </p>
 <p align="center">
-  <img alt="糖葫芦" src="screenshot/手机发送视频地址.png" width ="400px"/>
+  <img alt="糖葫芦" src="screenshot/手机发送视频.png" width ="400px"/>
 </p>
 
 ### releases
