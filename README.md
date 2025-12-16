@@ -6,7 +6,7 @@
 
 TVOS上使用的DLNA投屏、Http投屏工具<br>
 TF地址<br>
-- [https://testflight.apple.com/join/7ta4Jx6F](https://testflight.apple.com/join/7ta4Jx6F)
+- [https://testflight.apple.com/join/Zr5hrXUN](https://testflight.apple.com/join/Zr5hrXUN)
 # 首页
 默认打开显示时钟页面
 <p align="center">
