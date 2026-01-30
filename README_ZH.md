@@ -1,6 +1,6 @@
-# Tanghulu TV
+# 糖葫芦投屏
 
-[中文说明](README_ZH.md)
+[English](README.md)
 
 [![Platform](https://img.shields.io/badge/Platform-tvOS-blue.svg)](https://apps.apple.com/app/id6756602456)
 [![App Store](https://img.shields.io/badge/App_Store-Download-black?style=flat&logo=apple)](https://apps.apple.com/app/id6756602456)
@@ -8,53 +8,53 @@
 [![Telegram](https://img.shields.io/badge/Telegram-Join_Group-blue?style=flat&logo=telegram)](https://t.me/tanghulutvos)
 
 <p align="center">
-  <img alt="Tanghulu" src="screenshot/Logo.png"/>
+  <img alt="糖葫芦" src="screenshot/Logo.png"/>
 </p>
 
-DLNA and HTTP casting tool for tvOS.
+TVOS上使用的 DLNA 投屏、Http 投屏工具。
 
 **App Store**: [https://apps.apple.com/app/id6756602456](https://apps.apple.com/app/id6756602456)
 
-## Home
+## 首页
 
-Displays the clock page by default.
+默认打开显示时钟页面
 
 <p align="center">
-  <img alt="Home" src="screenshot/首页.png" />
+  <img alt="糖葫芦" src="screenshot/首页.png" />
 </p>
 
-Click the down arrow on the remote to show the bottom menu.
+点击遥控器器上的 downArrow 按钮，会显示底部菜单
 
 <p align="center">
-  <img alt="Bottom Menu" src="screenshot/底部.png" />
+  <img alt="糖葫芦" src="screenshot/底部.png" />
 </p>
 
-## Settings
+## 设置
 
-App settings are displayed here.
+App 的相关设置会显示在这里
 
 <p align="center">
-  <img alt="Settings" src="screenshot/设置.png" />
+  <img alt="糖葫芦" src="screenshot/设置.png" />
 </p>
 
-## DLNA Casting
+## DLNA 投屏
 
-Taking Youku as an example: after clicking the cast button on the playback page, select "Tanghulu" from the device options.
+以优酷站为例，点击播放页面的投屏按钮后，投屏设备选项后添加上【糖葫芦】的选项
 
 <p align="center">
-  <img alt="Youku Casting" src="screenshot/优酷投屏截图.png" width ="400px"/>
+  <img alt="糖葫芦" src="screenshot/优酷投屏截图.png" width ="400px"/>
 </p>
 
-## HTTP Casting
+## Http 投屏
 
-Click the right arrow on the remote to show the QR code. Ensure your phone and TV are on the same local network, then scan the QR code to open the casting page.
+点击遥控器的右键，弹出二维码，手机与 tv 在同一个局域网下，扫码二维码显示二维码页面
 
 <p align="center">
-  <img alt="QR Code" src="screenshot/二维码.png" />
+  <img alt="糖葫芦" src="screenshot/二维码.png" />
 </p>
 
 <p align="center">
-  <img alt="Mobile Casting" src="screenshot/手机发送视频.png" width ="400px"/>
+  <img alt="糖葫芦" src="screenshot/手机发送视频.png" width ="400px"/>
 </p>
 
 ### Releases
@@ -66,8 +66,9 @@ Click the right arrow on the remote to show the QR code. Ensure your phone and T
 - [https://t.me/tanghulutvos](https://t.me/tanghulutvos)
 
 <p align="center">
-  <img alt="Telegram" src="screenshot/telegram_icon.png" />
+  <img alt="糖葫芦" src="screenshot/telegram_icon.png" />
 </p>
+
 
 ### Links
 
